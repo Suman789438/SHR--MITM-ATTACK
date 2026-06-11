@@ -1,7 +1,7 @@
 # SHR--MITM-ATTACK
 
 
-```markdown
+
 <!--
 ============================================================
 SHR-MITM - Advanced MITM Framework (No Root / Termux Compatible)
