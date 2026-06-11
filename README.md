@@ -130,12 +130,12 @@ Option Description
 
 📁 File Structure
 
-```
+
 SHR-MITM/
 ├── HCO-MITM-Attack.py   # Main MITM tool
 ├── packages.py          # One‑click dependency installer
 └── README.md            # This file
-```
+
 
 ---
 
@@ -152,7 +152,7 @@ No third‑party Python packages required – uses only standard libraries.
 🖼️ Screenshots (Conceptual)
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Banner+Preview" width="600">
+  <img src="https://github.com/Suman789438/SHR--MITM-ATTACK/blob/main/Screenshot_2026-06-11-08-40-22-24_84d3000e3f4017145260f7618db1d683.jpg" width="600">
 </p>
 
 ---
